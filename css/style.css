@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+/* About Section */
+.carousel-item img{
+    width: 100%;
+    height: 93vh;
+}
+.about_img{
+    max-width: 100%;
+    max-height: 280px;
+}
+.row{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+/* Services Section */
+.services{
+    background-color:#e9ecef70;
+
+}
+/* Footer */
+footer p{
+    margin-top: -17px;
+    margin-bottom: -1rem;
+}
+/* Responsive Css */
+/* Extra small devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}    
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
